@@ -1,0 +1,9 @@
+dataset: {
+    "Custom_te": "Custom",
+}
+
+method: {
+    'ZoomNeXt': 'ZoomNeXt-50ITER',
+    'ZoomNeXt_full_crf': 'ZoomNeXt-5ITER+full_crf',
+    'ZoomNeXt_conv_crf': 'ZoomNeXt-5ITER+conv_crf'
+}

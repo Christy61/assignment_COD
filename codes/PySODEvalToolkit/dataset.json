@@ -1,0 +1,8 @@
+{
+    "Custom_te": {
+        "mask": {
+            "path": "../../dataset/test/GT",
+            "suffix": ".png"
+        }
+    }
+}

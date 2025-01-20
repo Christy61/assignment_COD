@@ -1,0 +1,8 @@
+{
+    "COMPrompter_full_crf": {
+        "Custom_te": {
+            "path": "../ConvCRF/COMprompter/full_crf_output",
+            "suffix": ".png"
+        }
+    }
+}

@@ -1,0 +1,7 @@
+dataset: {
+    "Custom_te": "Custom",
+}
+
+method: {
+    'COMPrompter_ada1': 'COMPrompter_adaboost'
+}

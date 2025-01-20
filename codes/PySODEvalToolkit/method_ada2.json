@@ -1,0 +1,8 @@
+{
+    "COMPrompter_ada2": {
+        "Custom_te": {
+            "path": "../COMPrompter/fin_output",
+            "suffix": ".png"
+        }
+    }
+}

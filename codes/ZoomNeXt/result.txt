@@ -1,0 +1,1 @@
+sm: 0.892, wfm: 0.825, mae: 0.021, avgem: 0.933, adpem: 0.936, maxem: 0.950, avgfmeasure: 0.849, adpfmeasure: 0.829, maxfmeasure: 0.865

@@ -1,0 +1,8 @@
+{
+    "CRF_full_crf": {
+        "Custom_te": {
+            "path": "../Only_CRF/output/full_crf",
+            "suffix": ".png"
+        }
+    }
+}

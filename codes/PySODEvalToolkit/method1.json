@@ -1,0 +1,8 @@
+{
+    "ZoomNeXt_full_crf": {
+        "Custom_te": {
+            "path": "../ConvCRF/full_crf_output",
+            "suffix": ".png"
+        }
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "ZoomNeXt": {
+        "Custom_te": {
+            "path": "../ZoomNeXt/eval/custom_dataset_te/image",
+            "suffix": ".png"
+        }
+    }
+}
