@@ -1,2 +1,2 @@
 
-My machine learning coursework
+My coursework
